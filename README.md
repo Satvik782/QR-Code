@@ -4,6 +4,8 @@
 
 ## Link
 
+[Website](https://satvik782.github.io/QR-Code/)
+
 ## Languages Used
 
 HTML
